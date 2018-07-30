@@ -3,7 +3,7 @@
   <groupId>com.rishabh.study</groupId>
   <artifactId>multithreading</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <packaging>jar</packaging>
   <properties>
 		<maven.compiler.plugin.version>3.2</maven.compiler.plugin.version>
 	</properties>
