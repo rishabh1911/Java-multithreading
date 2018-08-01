@@ -1,6 +1,6 @@
 package threads11.deadlock;
 
-//This is an example of hold and wait technique to avoid deadlock
+//This is an example of Pre-emption Technique to remove hold and wait  to avoid deadlock
 //
 public class DeadlockExample3 {
 
