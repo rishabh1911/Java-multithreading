@@ -11,6 +11,12 @@ package threads15.fork.and.join;
   
   ForkJoinPool is a threadPool for fork-join tasks
   
+  Stream API in java-8 use fork-join pool for parallel streams but for normal stream it uses main thread only.
+  
+  See: https://stackoverflow.com/questions/52915530/fork-join-pool-in-streams
+       https://stackoverflow.com/questions/42486428/when-should-i-use-streams?rq=1
+  
+  
  */
 
 import java.util.concurrent.ForkJoinPool;
