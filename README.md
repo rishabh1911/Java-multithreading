@@ -1,8 +1,8 @@
 # Java Multithreading
 
-This repository contains codes which I made for practicing a Java multithreading course.
+These are self-explanatory code examples which are enough for one to understand all the basic multithreading concepts in Java for preparation in exams or coding interviews.
 
-These are self-explanatory code examples which are enough for one to understand all the basic concepts for preparation in exams or coding interviews.
+This repository contains codes which I made for practicing a Java multithreading course.
 
 #### The Topics include:
 
@@ -22,6 +22,16 @@ These are self-explanatory code examples which are enough for one to understand 
   - [Interrupting Threads]
   - [Fork and Join]
   
+ 
+### Good Sources for study
+
+  - Free [Udemy](https://www.udemy.com/java-multithreading/) Course
+ 
+The above course is present in [youtube](https://www.youtube.com/watch?v=YdlnEWC-7Wo&index=2&list=PLBB24CFB073F1048E&t=0s) as well.
+
+
+
+
   [How to create Threads in Java.]: <https://github.com/rishabh1911/Java-multithreading/tree/master/src/main/java/threads1/starting/threads>
   [Volatile Keyword]: <https://github.com/rishabh1911/Java-multithreading/tree/master/src/main/java/threads2/volatility>
   [Thread Synchronization]: <https://github.com/rishabh1911/Java-multithreading/tree/master/src/main/java/threads3/synchronization>
@@ -38,8 +48,3 @@ These are self-explanatory code examples which are enough for one to understand 
   [Interrupting Threads]: <https://github.com/rishabh1911/Java-multithreading/tree/master/src/main/java/threads14/interrupting/threads>
   [Fork and Join]: <https://github.com/rishabh1911/Java-multithreading/tree/master/src/main/java/threads15/fork/and/join>
   
-### Good Sources for study
-
-  - Free [Udemy](https://www.udemy.com/java-multithreading/) Course
- 
-The above course is present in [youtube](https://www.youtube.com/watch?v=YdlnEWC-7Wo&index=2&list=PLBB24CFB073F1048E&t=0s) as well.
