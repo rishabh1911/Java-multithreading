@@ -29,7 +29,10 @@ This repository contains codes which I made for practicing a Java multithreading
  
 The above course is present in [youtube](https://www.youtube.com/watch?v=YdlnEWC-7Wo&index=2&list=PLBB24CFB073F1048E&t=0s) as well.
 
+### Some good SO questions:
 
+  - [Fork-Join Pool in Streams](https://stackoverflow.com/questions/52915530/fork-join-pool-in-streams)
+  - [Fork join vs Executor Service](https://stackoverflow.com/questions/52717900/forkjoinpool-scheduling-vs-executorservice)
 
 
   [How to create Threads in Java.]: <https://github.com/rishabh1911/Java-multithreading/tree/master/src/main/java/threads1/starting/threads>
