@@ -5,6 +5,8 @@ import java.util.Queue;
 
 /*
  A lock object to lock the whenever we add or delete from queue
+ This is not a good solution as queue is blocked by one producer or consumer and other cannot work concurrently.
+ Better option is to use wait and notify. Best option is to use Blocking Queue.
  */
 public class ProducerConsumer1 {
 
